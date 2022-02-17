@@ -1,6 +1,6 @@
 
 import {useState} from 'react'
-import { useEffect } from 'react/cjs/react.production.min';
+import { useEffect } from 'react';
 // import { useEffect } from 'react/cjs/react.development';
 import { getGifs } from '../helpers/getGifs';
 
